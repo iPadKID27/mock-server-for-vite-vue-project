@@ -32,6 +32,39 @@
       "time": "11:00",
       "petsAllowed": true,
       "organizer": "Pawsitive Change"
+    },
+    {
+      "id": 5928104,
+      "category": "animal welfare",
+      "title": "Rabbit Rescue Meetup",
+      "description": "Meet rescued rabbits and learn about their care.",
+      "location": "Bunny Haven",
+      "date": "April 10, 2022",
+      "time": "13:00",
+      "petsAllowed": true,
+      "organizer": "Hop to Help"
+    },
+    {
+      "id": 5928105,
+      "category": "animal welfare",
+      "title": "Bird Watching Walk",
+      "description": "Join us for a guided bird watching walk.",
+      "location": "Feathered Friends Park",
+      "date": "May 22, 2022",
+      "time": "09:30",
+      "petsAllowed": false,
+      "organizer": "Wings & Things"
+    },
+    {
+      "id": 5928106,
+      "category": "animal welfare",
+      "title": "Exotic Pet Care Seminar",
+      "description": "Learn how to care for exotic pets.",
+      "location": "Wildlife Center",
+      "date": "June 18, 2022",
+      "time": "15:00",
+      "petsAllowed": false,
+      "organizer": "Exotic Experts"
     }
   ]
 }
