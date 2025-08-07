@@ -1,35 +1,37 @@
-[
-  {
-    "id": 5928101,
-    "category": "animal welfare",
-    "title": "Cat Adoption Day",
-    "description": "Find your new feline friend at this event.",
-    "location": "Meow Town",
-    "date": "January 28, 2022",
-    "time": "12:00",
-    "petsAllowed": true,
-    "organizer": "Kat Laydee"
-  },
-  {
-    "id": 5928102,
-    "category": "animal welfare",
-    "title": "Dog Training Workshop",
-    "description": "Learn how to train your dog effectively.",
-    "location": "Bark Park",
-    "date": "February 15, 2022",
-    "time": "10:00",
-    "petsAllowed": true,
-    "organizer": "Ruff Trainer"
-  },
-  {
-    "id": 5928103,
-    "category": "animal welfare",
-    "title": "Pet Adoption Fair",
-    "description": "Adopt a pet and give them a forever home.",
-    "location": "Happy Paws Shelter",
-    "date": "March 5, 2022",
-    "time": "11:00",
-    "petsAllowed": true,
-    "organizer": "Pawsitive Change"
-  }
-]
+{
+  "events": [
+    {
+      "id": 5928101,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 5928102,
+      "category": "animal welfare",
+      "title": "Dog Training Workshop",
+      "description": "Learn how to train your dog effectively.",
+      "location": "Bark Park",
+      "date": "February 15, 2022",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organizer": "Ruff Trainer"
+    },
+    {
+      "id": 5928103,
+      "category": "animal welfare",
+      "title": "Pet Adoption Fair",
+      "description": "Adopt a pet and give them a forever home.",
+      "location": "Happy Paws Shelter",
+      "date": "March 5, 2022",
+      "time": "11:00",
+      "petsAllowed": true,
+      "organizer": "Pawsitive Change"
+    }
+  ]
+}
